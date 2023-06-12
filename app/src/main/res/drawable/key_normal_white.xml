@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/key_white_shadow" />
+    <item android:bottom="5dp">
+        <shape android:shape="rectangle">
+            <corners android:radius="2dp" />
+            <solid android:color="#fff" />
+        </shape>
+    </item>
+
+</layer-list>
